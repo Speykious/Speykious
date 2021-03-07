@@ -4,7 +4,7 @@
 
 If you want to check this out:
 
-[<img align='left' alt="YouTube channel" width='22px' src='https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg' />][ytb] ─ Noteblock videos, last ones encoded with my [Chromium Noteblockoder](https://gitlab.com/Speykious/noteblockoder).
+[<img align='left' alt="YouTube channel" width='22px' src='https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg' />][ytb] ─ Noteblock videos, last ones encoded with my [Chromium Noteblockoder](https://gitlab.com/Speykious/chromium-noteblockoder).
   
 <img alt="Current Discord status" src='https://discord.c99.nl/widget/theme-3/358960666238910465.png' />
 
