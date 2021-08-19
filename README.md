@@ -1,6 +1,9 @@
 # Welcome to my code lab
 
-> You'll probably find some useless piece of code mirrored from [GitLab](https://gitlab.com/Speykious) here.
+> You'll also probably find some code mirrored from my [GitLab](https://gitlab.com/Speykious) here.
+
+Hi! I'm a low-level and back-end programmer as well as a Linux enthusiast.
+My favorite programming languages are C, Haskell and Rust (from least to most).
 
 If you want to check this out:
 
@@ -13,3 +16,7 @@ If you want to check this out:
 
 
 [ytb]: https://www.youtube.com/channel/UCOiJt_VwWxzo-MJB_ANxqvA
+
+
+
+I use Arch btw
