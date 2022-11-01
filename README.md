@@ -6,7 +6,7 @@ Hi! I'm a low-level and back-end programmer as well as a Linux enthusiast.
 
 My favorite programming languages are C, Haskell and Rust (from least to most).
 
-I am a Core Developer of [Vignette <img alt="(Vignette icon)" src="https://raw.githubusercontent.com/lionirdeadman/vignette-linux-meta/main/org.vignetteapp.Vignette.svg" width="16" />](https://vignetteapp.org), the open-source VTuber toolkit.
+I am a Core Developer of [Vignette <img alt="(Vignette icon)" src="https://avatars.githubusercontent.com/u/69518398" width="16" />](https://vignetteapp.org), the open-source VTuber toolkit.
 
 If you want to check this out:
 
