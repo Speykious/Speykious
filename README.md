@@ -6,8 +6,6 @@ Hi! I'm a low-level and back-end programmer as well as a Linux enthusiast.
 
 My favorite programming languages are C, Haskell and Rust (from least to most).
 
-I am a Core Developer of [Vignette <img alt="(Vignette icon)" src="https://avatars.githubusercontent.com/u/69518398" width="16" />](https://vignetteapp.org), the open-source VTuber toolkit.
-
 If you want to check this out:
 
 [<img align='left' alt="YouTube channel" width='22px' src='https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg' />][ytb] ─ Noteblock videos, last ones encoded with [Nodeblock](https://gitlab.com/Speykious/nodeblock), a program that I made to encode my audio spectrum visualization videos without anything like After Effects.
