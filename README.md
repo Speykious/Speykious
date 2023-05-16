@@ -6,13 +6,18 @@ Hi! I'm a software developer who does various stuff in Rust in his free time.
 
 My favorite programming languages are Rust first, C# second and Haskell third.
 
-I work on [Inox2D](https://github.com/Inochi2D/inox2d), an experimental implementation of Inochi2D in Rust.
+<img alt="Current Discord status" src="https://discord.c99.nl/widget/theme-3/358960666238910465.png" />
 
-<img alt="Current Discord status" src='https://discord.c99.nl/widget/theme-3/358960666238910465.png' />
+<img alt="Speykious's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Speykious&show_incos=true&hide_border=true&theme=tokyonight" width="395px" />
 
-<img alt="Speykious' GitHub stats" src='https://github-readme-stats.vercel.app/api?username=Speykious&show_incos=true&hide_border=true&theme=tokyonight' width='395px' />
+<img alt="Speykious's GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speykious&langs_count=3&hide_border=true&theme=tokyonight" width="395px" />
 
 &nbsp;
+
+## Stuff I'm working on
+
+- [Inox2D](https://github.com/Inochi2D/inox2d), an experimental implementation of Inochi2D in Rust. (WIP)
+- [Loki](https://github.com/loki-chat), a chat app written completely from scratch in Rust. (really WIP)
 
 ## I play Rhythm games
 
