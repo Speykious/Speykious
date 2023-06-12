@@ -10,15 +10,17 @@ Hi! I'm a software developer who does various stuff in Rust in his free time.
 
 My favorite programming languages are Rust first, C# second and Haskell third.
 
-<div align="center" style="display:flex;">
-  <div style="display:flex; flex-direction: column;">
-    <img alt="Current Discord status" src="https://discord.c99.nl/widget/theme-3/358960666238910465.png" />
-    <img alt="Speykious's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Speykious&show_incos=true&hide_border=true&theme=tokyonight" />
-  </div>
-  <div style="display:flex; flex-direction: column;">
-    <img alt="Speykious's GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speykious&langs_count=3&hide_border=true&theme=tokyonight" width="420px" />
-  </div>
-</div>
+<table align="center">
+    <tr>
+    <td width="440px">
+      <img alt="Current Discord status" src="https://discord.c99.nl/widget/theme-3/358960666238910465.png" width="430px" align="center" />
+      <img alt="Speykious's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Speykious&show_incos=true&hide_border=true&theme=tokyonight" width="430px" align="center" />
+    </td>
+    <td width="420px">
+      <img alt="Speykious's GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speykious&langs_count=3&hide_border=true&theme=tokyonight" width="390px" align="center" />
+    </td>
+  </tr>
+</table>
 
 > This "most used languages" statistic is a bit misleading because it only takes into account the projects I have on my profile...
 
@@ -29,6 +31,7 @@ My favorite programming languages are Rust first, C# second and Haskell third.
 | Project                                           | Description                                         | Status           |
 | ------------------------------------------------- | --------------------------------------------------- | ---------------- |
 | [SeeShark](https://github.com/Speykious/SeeShark) | A simple camera library in C# using native FFmpeg.  | Done? (on hold?) |
+| [oSUS](https://github.com/Speykious/oSUS)         | Some osu! utilities and scripts in Rust.            | Usable           |
 | [Inox2D](https://github.com/Inochi2D/inox2d)      | An experimental implementation of Inochi2D in Rust. | WIP              |
 | [Loki](https://github.com/loki-chat)              | A chat app written completely from scratch in Rust. | really WIP       |
 
