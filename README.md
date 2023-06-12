@@ -1,4 +1,8 @@
-# Welcome to my Github
+<p align="center">
+  <h1 align="center">Welcome to my GitHub</h1>
+</p>
+
+&nbsp;
 
 > You'll also probably find some code mirrored from my [GitLab](https://gitlab.com/Speykious) here.
 
@@ -6,29 +10,40 @@ Hi! I'm a software developer who does various stuff in Rust in his free time.
 
 My favorite programming languages are Rust first, C# second and Haskell third.
 
-<img alt="Current Discord status" src="https://discord.c99.nl/widget/theme-3/358960666238910465.png" />
+<div align="center" style="display:flex;">
+  <div style="display:flex; flex-direction: column;">
+    <img alt="Current Discord status" src="https://discord.c99.nl/widget/theme-3/358960666238910465.png" />
+    <img alt="Speykious's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Speykious&show_incos=true&hide_border=true&theme=tokyonight" />
+  </div>
+  <div style="display:flex; flex-direction: column;">
+    <img alt="Speykious's GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speykious&langs_count=3&hide_border=true&theme=tokyonight" width="420px" />
+  </div>
+</div>
 
-<img alt="Speykious's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Speykious&show_incos=true&hide_border=true&theme=tokyonight" width="395px" />
-
-<img alt="Speykious's GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speykious&langs_count=3&hide_border=true&theme=tokyonight" width="395px" />
+> This "most used languages" statistic is a bit misleading because it only takes into account the projects I have on my profile...
 
 &nbsp;
 
 ## Stuff I'm working on
 
-- [Inox2D](https://github.com/Inochi2D/inox2d), an experimental implementation of Inochi2D in Rust. (WIP)
-- [Loki](https://github.com/loki-chat), a chat app written completely from scratch in Rust. (really WIP)
+| Project                                           | Description                                         | Status           |
+| ------------------------------------------------- | --------------------------------------------------- | ---------------- |
+| [SeeShark](https://github.com/Speykious/SeeShark) | A simple camera library in C# using native FFmpeg.  | Done? (on hold?) |
+| [Inox2D](https://github.com/Inochi2D/inox2d)      | An experimental implementation of Inochi2D in Rust. | WIP              |
+| [Loki](https://github.com/loki-chat)              | A chat app written completely from scratch in Rust. | really WIP       |
 
 ## I play Rhythm games
 
-| Game                                       | Profile link                        | Note                                       |
-| ------------------------------------------ | ----------------------------------- | ------------------------------------------ |
-| [osu!lazer](https://github.com/ppy/osu)    | https://lazer.ppy.sh/users/19553508 | I play std and mania                       |
-| [Quaver](https://github.com/Quaver/Quaver) | https://quavergame.com/user/475839  | Quaver is osu!mania but better             |
-| Arcaea                                     |                                     | Best mobile rhythm game of all time        |
-| Rotaeno                                    |                                     | Second best mobile rhythm game of all time |
-- others but less active: ADOFAI, Muse Dash, Project Sekai, Paradigm: Reboot...
-- rhythm game arcades: Maimai, Dance Dance Revolution, Taiko no Tatsujin, JuBeat, SDVX, Chunithm. I wish to experience WACCA at least once
+| Game                                       | Profile link                                     | Note                                       |
+| ------------------------------------------ | ------------------------------------------------ | ------------------------------------------ |
+| [osu!lazer](https://github.com/ppy/osu)    | [Speykious](https://lazer.ppy.sh/users/19553508) | I play std and mania                       |
+| [Quaver](https://github.com/Quaver/Quaver) | [Speykious](https://quavergame.com/user/475839)  | Quaver is osu!mania but better             |
+| Arcaea                                     |                                                  | Best mobile rhythm game of all time        |
+| Rizline                                    |                                                  | The mobile game with rizz                  |
+| Rotaeno                                    |                                                  | Second best mobile rhythm game of all time |
+
+- others but less active: ADOFAI, Muse Dash, Project Sekai...
+- rhythm game arcades: Maimai, Dance Dance Revolution, Taiko no Tatsujin, JuBeat, SDVX, Chunithm. I finally experienced WACCA at Montpellier :D
 
 &nbsp;
 
