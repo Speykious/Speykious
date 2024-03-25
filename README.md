@@ -14,7 +14,7 @@ My favorite programming languages are Rust first, C# second and Haskell third.
     <tr>
     <td width="440px">
       <img alt="Current Discord status" src="https://discord.c99.nl/widget/theme-3/358960666238910465.png" width="430px" align="center" />
-      <img alt="Speykious's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Speykious&show_incos=true&hide_border=true&theme=tokyonight" width="430px" align="center" />
+      <img alt="Speykious's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Speykious&show_icons=true&hide_border=true&theme=tokyonight" width="430px" align="center" />
     </td>
     <td width="420px">
       <img alt="Speykious's GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speykious&langs_count=3&hide_border=true&theme=tokyonight" width="390px" align="center" />
