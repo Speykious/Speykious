@@ -30,10 +30,10 @@ My favorite programming languages are Rust first, C# second and Haskell third.
 
 | Project                                           | Description                                         | Status           |
 | ------------------------------------------------- | --------------------------------------------------- | ---------------- |
-| [SeeShark](https://github.com/Speykious/SeeShark) | A simple camera library in C# using native FFmpeg.  | Done? (on hold?) |
+| [SeeShark](https://github.com/Speykious/SeeShark) | A simple camera library in C# using native FFmpeg.  | On Hold          |
 | [oSUS](https://github.com/Speykious/oSUS)         | Some osu! utilities and scripts in Rust.            | Usable           |
 | [Inox2D](https://github.com/Inochi2D/inox2d)      | An experimental implementation of Inochi2D in Rust. | WIP              |
-| [Loki](https://github.com/loki-chat)              | A chat app written completely from scratch in Rust. | really WIP       |
+| [Lokinit](https://github.com/loki-chat/lokinit)   | A small windowing library in Rust.                  | really WIP       |
 
 ## I play Rhythm games
 
@@ -46,7 +46,7 @@ My favorite programming languages are Rust first, C# second and Haskell third.
 | Rotaeno                                    |                                                  | Second best mobile rhythm game of all time |
 
 - others but less active: ADOFAI, Muse Dash, Project Sekai...
-- rhythm game arcades: Maimai, Dance Dance Revolution, Taiko no Tatsujin, JuBeat, SDVX, Chunithm. I finally experienced WACCA at Montpellier :D
+- rhythm game arcades: Maimai, WACCA, Pump It Up, Dance Dance Revolution, SDVX, Chunithm, Taiko no Tatsujin.
 
 &nbsp;
 
@@ -54,7 +54,7 @@ My favorite programming languages are Rust first, C# second and Haskell third.
 
 If you want to check this out:
 
-[<img align='left' alt="YouTube channel" width='22px' src='https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg' />][ytb] ─ Noteblock videos, last ones encoded with [Nodeblock](https://gitlab.com/Speykious/nodeblock), a program that I made to encode my audio spectrum visualization videos without anything like After Effects. Although nowadays I don't really make noteblock covers anymore.
+[<img align='left' alt="YouTube channel" width='22px' src='https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg' />][ytb] ─ Noteblock videos, last ones encoded with [Nodeblock](https://gitlab.com/Speykious/nodeblock), a program that I made to encode my audio spectrum visualization videos without anything like After Effects. Although I don't make noteblock covers anymore.
 
 [ytb]: https://www.youtube.com/channel/UCOiJt_VwWxzo-MJB_ANxqvA
 
