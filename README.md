@@ -4,8 +4,6 @@
 
 &nbsp;
 
-> You'll also probably find some code mirrored from my [GitLab](https://gitlab.com/Speykious) here.
-
 Hi! I'm a software developer and I do various (usually low-level) stuff in my free time.
 
 My favorite programming languages are Rust first, C# second and Haskell third.
