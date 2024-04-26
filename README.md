@@ -36,13 +36,13 @@ My favorite programming languages are Rust first, C# second and Haskell third.
 
 ## I play Rhythm games
 
-| Game                                       | Profile link                                     | Note                                       |
-| ------------------------------------------ | ------------------------------------------------ | ------------------------------------------ |
-| [osu!lazer](https://github.com/ppy/osu)    | [Speykious](https://lazer.ppy.sh/users/19553508) | I play std and mania                       |
-| [Quaver](https://github.com/Quaver/Quaver) | [Speykious](https://quavergame.com/user/475839)  | Quaver is osu!mania but better             |
-| Arcaea                                     |                                                  | Best mobile rhythm game of all time        |
-| Rizline                                    |                                                  | The mobile game with rizz                  |
-| Rotaeno                                    |                                                  | Second best mobile rhythm game of all time |
+| Game                                       | Profile link                                    | Note                                       |
+| ------------------------------------------ | ----------------------------------------------- | ------------------------------------------ |
+| [osu!lazer](https://github.com/ppy/osu)    | [Speykious](https://osu.ppy.sh/users/19553508)  | I play std and mania                       |
+| [Quaver](https://github.com/Quaver/Quaver) | [Speykious](https://quavergame.com/user/475839) | Quaver is osu!mania but better             |
+| Arcaea                                     |                                                 | Best mobile rhythm game of all time        |
+| Rizline                                    |                                                 | The mobile game with rizz                  |
+| Rotaeno                                    |                                                 | Second best mobile rhythm game of all time |
 
 - others but less active: ADOFAI, Muse Dash, Project Sekai...
 - rhythm game arcades: Maimai, WACCA, Pump It Up, Dance Dance Revolution, SDVX, Chunithm, Taiko no Tatsujin.
