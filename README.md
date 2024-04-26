@@ -26,12 +26,13 @@ My favorite programming languages are Rust first, C# second and Haskell third.
 
 ## Stuff I'm working on
 
-| Project                                           | Description                                         | Status           |
-| ------------------------------------------------- | --------------------------------------------------- | ---------------- |
-| [SeeShark](https://github.com/Speykious/SeeShark) | A simple camera library in C# using native FFmpeg.  | On Hold          |
-| [oSUS](https://github.com/Speykious/oSUS)         | Some osu! utilities and scripts in Rust.            | Usable           |
-| [Inox2D](https://github.com/Inochi2D/inox2d)      | An experimental implementation of Inochi2D in Rust. | WIP              |
-| [Lokinit](https://github.com/loki-chat/lokinit)   | A small windowing library in Rust.                  | really WIP       |
+| Project                                             | Description                                         | Status     |
+| --------------------------------------------------- | --------------------------------------------------- | ---------- |
+| [Inox2D](https://github.com/Inochi2D/inox2d)        | An experimental implementation of Inochi2D in Rust. | WIP        |
+| [OwOverlay](https://github.com/Speykious/OwOverlay) | A simple configurable key overlay in Rust.          | Usable     |
+| [oSUS](https://github.com/Speykious/oSUS)           | Some osu! utilities and scripts in Rust.            | Usable     |
+| [SeeShark](https://github.com/Speykious/SeeShark)   | A simple camera library in C# using native FFmpeg.  | On Hold    |
+| [Lokinit](https://github.com/loki-chat/lokinit)     | A small windowing library in Rust.                  | really WIP |
 
 ## I play Rhythm games
 
