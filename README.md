@@ -4,9 +4,15 @@
 
 &nbsp;
 
-Hi! I'm a software developer and I do various (usually low-level) stuff in my free time.
+Hello :3
+
+I'm Speykious. Aside from being huge weeb and rhythm games enthusiast, I'm a software developer and I love making software from scratch.
+I hate bloated software and think that any decent software these days should load instantaneously and that software nowadays is way too slow >:v
+So for anything I do I aim for it to feel actually responsive, while also not consuming all your RAM and CPU.
+Oh and quite importantly, to *not look like shit*. Making rectangles pretty doesn't necessarily demand more resources!
 
 My favorite programming languages are Rust first, C# second and Haskell third.
+Although I'm currently re-exploring C to learn about allocators and alternative allocation strategies.
 
 <table align="center">
     <tr>
