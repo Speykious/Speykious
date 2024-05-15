@@ -37,8 +37,8 @@ Although I'm currently re-exploring C to learn about allocators and alternative 
 | [Inox2D](https://github.com/Inochi2D/inox2d)        | An experimental implementation of Inochi2D in Rust. | WIP        |
 | [OwOverlay](https://github.com/Speykious/OwOverlay) | A simple configurable key overlay in Rust.          | Usable     |
 | [oSUS](https://github.com/Speykious/oSUS)           | Some osu! utilities and scripts in Rust.            | Usable     |
+| [snaek](https://github.com/Speykious/snaek)         | A snake game made entirely from scratch in Rust.    | Done       |
 | [SeeShark](https://github.com/Speykious/SeeShark)   | A simple camera and display library in C#.          | On Rewrite |
-| [snaek](https://github.com/Speykious/snaek)         | A snake game made entirely from scratch in Rust.    | WIP        |
 | [Lokinit](https://github.com/loki-chat/lokinit)     | A small windowing library in Rust.                  | really WIP |
 
 ## I play Rhythm games
