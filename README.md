@@ -32,14 +32,12 @@ Although I'm currently re-exploring C to learn about allocators and alternative 
 
 ## Stuff I'm working on
 
-| Project                                             | Description                                         | Status     |
-| --------------------------------------------------- | --------------------------------------------------- | ---------- |
-| [Inox2D](https://github.com/Inochi2D/inox2d)        | An experimental implementation of Inochi2D in Rust. | WIP        |
-| [OwOverlay](https://github.com/Speykious/OwOverlay) | A simple configurable key overlay in Rust.          | Usable     |
-| [oSUS](https://github.com/Speykious/oSUS)           | Some osu! utilities and scripts in Rust.            | Usable     |
-| [snaek](https://github.com/Speykious/snaek)         | A snake game made entirely from scratch in Rust.    | Done       |
-| [SeeShark](https://github.com/Speykious/SeeShark)   | A simple camera and display library in C#.          | On Rewrite |
-| [Lokinit](https://github.com/loki-chat/lokinit)     | A small windowing library in Rust.                  | really WIP |
+| Project                                                             | Description                                         | Status     |
+| ------------------------------------------------------------------- | --------------------------------------------------- | ---------- |
+| [Inox2D](https://github.com/Inochi2D/inox2d)                        | An experimental implementation of Inochi2D in Rust. | WIP        |
+| [OwOverlay](https://github.com/Speykious/OwOverlay)                 | A simple configurable key overlay in Rust.          | Usable     |
+| [SeeShark](https://github.com/Speykious/SeeShark)                   | A simple camera and display library in C#.          | On Rewrite |
+| [OpenGL playground](https://github.com/Speykious/opengl-playground) | My own Rust playground for OpenGL stuff.            | Can run    |
 
 ## I play Rhythm games
 
