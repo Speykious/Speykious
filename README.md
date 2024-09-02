@@ -12,7 +12,6 @@ So for anything I do I aim for it to feel actually responsive, while also not co
 Oh and quite importantly, to *not look like shit*. Making rectangles pretty doesn't necessarily demand more resources!
 
 My favorite programming languages are Rust first, C# second and Haskell third.
-Although I'm currently re-exploring C to learn about allocators and alternative allocation strategies.
 
 <table align="center">
     <tr>
