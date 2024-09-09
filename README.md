@@ -17,11 +17,17 @@ My favorite programming languages are Rust first, C# second and Haskell third.
     <tr>
     <td width="420px">
       <img alt="Current Discord status" src="https://discord.c99.nl/widget/theme-3/358960666238910465.png" width="400px" align="center" />
-      <img alt="Speykious's GitHub Profily Trophies" src="https://github-profile-trophy.vercel.app/?username=Speykious&theme=darkhub&column=3&margin-w=5&margin-h=5&no-frame=true" width="400px" align="center" />
+      <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+        <img alt="Speykious's GitHub Profily Trophies" src="https://github-profile-trophy.vercel.app/?username=Speykious&theme=darkhub&column=3&margin-w=5&margin-h=5&no-frame=true" width="400px" align="center" />
+      </a>
     </td>
     <td width="420px">
-      <img alt="Speykious's GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speykious&langs_count=3&hide_border=true&theme=tokyonight" width="400px" align="center" />
-      <img alt="Speykious's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Speykious&show_icons=true&hide_border=true&theme=tokyonight" width="400px" align="center" />
+      <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card">
+        <img alt="Speykious's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Speykious&show_icons=true&hide_border=true&theme=tokyonight" width="400px" align="center" />
+      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card">
+        <img alt="Speykious's GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speykious&langs_count=6&hide_border=true&theme=tokyonight&layout=compact" width="400px" align="center" />
+      </a>
     </td>
   </tr>
 </table>
