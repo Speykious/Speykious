@@ -18,10 +18,10 @@ My favorite programming languages are Rust first, C# second and Haskell third.
     <td width="390px">
       <img alt="Current Discord status" src="https://discord.c99.nl/widget/theme-3/358960666238910465.png" width="390px" align="center" />
       <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card">
-        <img alt="Speykious's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Speykious&show_icons=true&hide_border=true&theme=tokyonight" width="390px" align="center" />
+        <img alt="Speykious's GitHub stats" src="https://ghstats.speykious.dev/?username=Speykious&show_icons=true&hide_border=true&theme=tokyonight" width="390px" align="center" />
       </a>
       <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card">
-        <img alt="Speykious's GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speykious&langs_count=6&hide_border=true&theme=tokyonight&layout=compact" width="390px" align="center" />
+        <img alt="Speykious's GitHub Language Stats" src="https://ghstats.speykious.dev/top-langs/?username=speykious&langs_count=6&hide_border=true&theme=tokyonight&layout=compact" width="390px" align="center" />
       </a>
     </td>
     <td width="420px">
