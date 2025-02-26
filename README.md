@@ -26,13 +26,11 @@ My favorite programming languages are Rust first, C# second and Haskell third.
     </td>
     <td width="420px">
       <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-        <img alt="Speykious's GitHub Profily Trophies" src="https://github-profile-trophy.vercel.app/?username=Speykious&theme=darkhub&column=3&margin-w=5&margin-h=5&no-frame=true" width="420px" align="center" />
+        <img alt="Speykious's GitHub Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=Speykious&theme=darkhub&column=3&margin-w=5&margin-h=5&no-frame=true" width="420px" align="center" />
       </a>
     </td>
   </tr>
 </table>
-
-> This "most used languages" statistic is a bit misleading because it only takes into account the projects I have on my profile...
 
 &nbsp;
 
