@@ -32,7 +32,6 @@ Oh and quite importantly, to *not look like shit*. Making rectangles pretty does
 | Project                                           | Description                                         | Status        |
 | ------------------------------------------------- | --------------------------------------------------- | ------------- |
 | Divinity <sup>(private)</sup>                     | A music player with a customizable audio spectrum.  | WIP           |
-| ??????.??????? <sup>(private)</sup>               | A website to ???? ???? ?????? ???.                  | WIP           |
 | [SeeShark](https://github.com/Speykious/SeeShark) | A simple camera and display library in C#.          | On Rewrite    |
 | [Inox2D](https://github.com/Inochi2D/inox2d)      | An experimental implementation of Inochi2D in Rust. | WIP (on hold) |
 
